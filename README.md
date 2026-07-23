@@ -43,15 +43,9 @@ Future phases of the project include **Python-based Exploratory Data Analysis (E
 - Sales Representative Performance
 - Advanced SQL (Ranking, Window Functions, CTEs)
 - Interactive Power BI Dashboard
-
----
-
-## 🚀 Upcoming Features
-
 - Python Exploratory Data Analysis (EDA)
 - Machine Learning Sales Prediction
 - Feature Importance Analysis
-- Streamlit Web Application
 
 ---
 
