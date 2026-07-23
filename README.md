@@ -32,54 +32,6 @@ Future phases of the project include **Python-based Exploratory Data Analysis (E
 
 ---
 
-## 📊 Dashboard Preview
-
-### Executive Overview
-
-> *(Replace this text after uploading the image.)*
-
-![Executive Dashboard](dashboards/executive_dashboard.png)
-
----
-
-### Customer & Product Analytics
-
-![Customer Dashboard](dashboards/customer_product_dashboard.png)
-
----
-
-### Sales Performance Dashboard
-
-![Sales Dashboard](dashboards/sales_performance_dashboard.png)
-
----
-
-## 📁 Repository Structure
-
-```text
-Healthcare-Sales-Analytics
-│
-├── dashboards/
-│   ├── Healthcare_Sales_Analytics.pbix
-│   ├── executive_dashboard.png
-│   ├── customer_product_dashboard.png
-│   └── sales_performance_dashboard.png
-│
-├── sql/
-│   ├── 01_Data_Quality.sql
-│   ├── 02_Executive_KPIs.sql
-│   ├── 03_Product_Analysis.sql
-│   ├── 04_Customer_Analysis.sql
-│   ├── 05_Geographic_Analysis.sql
-│   ├── 06_Sales_Representative_Analysis.sql
-│   ├── 07_Advanced_SQL.sql
-│   └── 08_SQL_Views.sql
-│
-├── README.md
-└── .gitignore
-```
-
----
 
 ## 📈 Features
 
